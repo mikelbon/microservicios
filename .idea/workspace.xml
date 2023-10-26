@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -106,7 +106,7 @@
       <module name="microservice-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.microservice.student.*" />
+          <option name="PATTERN" value="com.microservice.student.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
